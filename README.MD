@@ -11,7 +11,7 @@
   </p>
 <hr>
 
-## To Do List
+## Daily Journal Blog
 
 - 📦 [Repository](https://github.com/davewdh/blog-website)
 - 🖥 [Site](https://blog-website-production-eb7d.up.railway.app/)
