@@ -74,6 +74,6 @@ app.get("/contact", function(req, res){
 });
 
 
-app.listen(process.env.PORT || 3000, function() {
+app.listen(`0.0.0.0:$PORT` || 3000, function() {
   console.log("server is running...");
 });
